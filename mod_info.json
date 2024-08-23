@@ -1,0 +1,10 @@
+{
+    "id": "darkborderman.hullrecoverable",
+    "name": "Hull recoverable",
+    "author": "Darkborderman",
+    "version": "0.0.0",
+    "description": "Make all non-station hulls recoverable in Starsector.",
+    "gameVersion": "0.97a-RC11",
+    "jars": ["jars/hullrecoverable.jar"],
+    "modPlugin": "mod.hullrecoverable.HullRecoverableModPlugin"
+}
